@@ -1,5 +1,5 @@
 ## Dataset Daun Pepaya dan Jambu biji
-
+![overview_dataset](/image/overview_dataset.jpg)
 ## Dataset
  1. Daun Pepaya
    - Overview : Image Dataset
